@@ -1,0 +1,43 @@
+body {
+    background-color: #fff;
+    /* white background */
+    color: #555;
+    /* gray text */
+}
+
+header {
+    background-color: #002171;
+    /* dark blue background */
+    color: #fff;
+    /* white text */
+}
+
+nav {
+    background-color: #bbdefb;
+    /* light blue nav background */
+}
+
+h1 {
+    margin-bottom: 0;
+    /* remove space below heading */
+}
+
+h2 {
+    color: #1976d2;
+    /* blue headings */
+}
+
+dt {
+    color: #002171;
+    /* dark blue for definition terms */
+}
+
+address {
+    font-style: normal;
+    /* remove italic style */
+}
+
+.resort {
+    color: #1976d2;
+    /* blue class selector for "Pacific Trails Resort" */
+}
